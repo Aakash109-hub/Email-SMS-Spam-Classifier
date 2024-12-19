@@ -58,7 +58,7 @@ To run this project locally, you’ll need:
 
 ### Web App:
 You can also use the live web application for the classifier at the following link:
-[Email/SMS Spam Classifier - Live Demo](https://email-sms-spam-classifier-ak109.onrender.com)
+https://email-sms-spam-classifier-ak109.onrender.com
 
 ## Model Details:
 - **Text Vectorization**: The input text is vectorized using **TF-IDF** to convert the text into numerical form suitable for machine learning.
