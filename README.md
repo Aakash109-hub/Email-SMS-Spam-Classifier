@@ -64,5 +64,5 @@ https://email-sms-spam-classifier-ak109.onrender.com
 - **Text Vectorization**: The input text is vectorized using **TF-IDF** to convert the text into numerical form suitable for machine learning.
 - **Model**: The classifier used is **Multinomial Naive Bayes**, which is well-suited for text classification tasks like spam detection.
 
-## Conclu
+## Conc
 This project provides a simple and efficient way to classify email and SMS messages as spam or ham using machine learning. The interactive web interface allows users to easily classify their own messages.
