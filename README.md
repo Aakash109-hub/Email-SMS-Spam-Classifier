@@ -1,6 +1,6 @@
 # Email/SMS Spam Classifier
 
-This project is an **Email/SMS Spam Classifier** built using machine learning techniques. It classifies text messages or emails as **spam** or **ham** (non-spam). The model is trained using a dataset of labeled messages and employs popular text-processing techniques such as **TF-IDF** (Term Frequency-Inverse Document Frequency) and a **Multinomial Naive Bayes** classifier.
+This project is an **Email/SMS Spam Classifier** built using machine learning techniques. It classifies text messages or emails as **spam** or **ham** (non-spam). The model is trained using a dataset of labeled messages and employs popular text-processing techniques such as **TF-IDF** (Term Frequency-Inverse Document Frequency) and a **Multinomial Naive Bayes** classifier
 
 ![Screenshot 2024-11-08 000335](https://github.com/user-attachments/assets/1be6b6da-82d4-4532-a925-a9c7bbdae938)
 
